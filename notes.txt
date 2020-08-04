@@ -1,0 +1,26 @@
+PROBLEM SOLVING STRAGIES
+A set of steps to help solving new problems.
+1.	Understand the Problem
+2.	Explore Concrete Examples
+3.	Break It Down
+4.	Solve/Simplify
+5.	Look Back and Refactor
+Each one is part of the plan to solve the problem
+
+UNDERSTAND THE PROBLEM
+Questions to ask: 
+1.	Can I restate the problem in my own words?
+2.	What are the inputs that go into the problem?
+3.	What are the outputs that should come from the solution to the problem?
+4.	Can the outputs be determined from the inputs? In other words, do I have enough information to solve the problem?
+5.	How should I label the important pieces of data that are a part of the problem?
+ 
+REFACTORING QUESTIONS
+•	Can you check the result?
+•	Can you derive the result differently?
+•	Can you understand it at a glance?
+•	Can you use the result or method for some other problem?
+•	Can you improve the performance of your solution?
+•	Can you think of other ways to refactor?
+•	How have other people solved this problem?
+
